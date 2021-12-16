@@ -22,5 +22,6 @@
 
 # Run Panda robot Gazebo and rviz
 ```bash
+> source devel/setup.bash
 > roslaunch panda_description description.launch
 ```
