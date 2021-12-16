@@ -15,8 +15,9 @@
 # Installation
 ```bash
 > git clone --recurse-submodules https://github.com/COMP0129-S22/comp0129_s22_robot.git
+> cd comp0129_s22_robot
 > git submodule update --init --recursive
-> cd comp0129_s22_robot & catkin build
+> catkin build
 ```
 
 # Run Panda robot Gazebo and rviz
