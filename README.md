@@ -1,4 +1,4 @@
-Author: Dimitrios Kanoulas (d.kanoulas@ucl.ac.uk)
+Author: Dimitrios Kanoulas (d.kanoulas@ucl.ac.uk), Luke Beddow, Denis Hadjivelichkov
 
 Description: This package implements some sample code for COMP0129-S22
 
