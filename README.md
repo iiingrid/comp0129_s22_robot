@@ -30,6 +30,7 @@ Description: This package implements some sample code for COMP0129-S22
 > git submodule add https://github.com/RPL-CS-UCL/rpl_panda_with_rs.git src/rpl_panda_with_rs
 ``
 
+## License
 LICENSE: MIT.  See LICENSE.txt
 
 DISCLAIMER:
