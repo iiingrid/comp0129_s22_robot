@@ -7,6 +7,7 @@ Description: This package implements some sample code for COMP0129-S22
 > sudo apt install ros-melodic-franka-ros ros-melodic-libfranka
 ```
 Gazebo physics simluator is also needed: http://gazebosim.org/
+
 This can be installed and then run with:
 ```bash
 > curl -sSL http://get.gazebosim.org | sh
