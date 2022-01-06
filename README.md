@@ -17,6 +17,7 @@ Gazebo physics simluator is also needed (http://gazebosim.org/). This can be ins
 > git clone --recurse-submodules https://github.com/COMP0129-S22/comp0129_s22_robot.git
 > cd comp0129_s22_robot
 > git submodule update --init --recursive
+> catkin config --extend /opt/ros/${ROS_DISTRO} --cmake-args -DCMAKE_BUILD_TYPE=Release
 > catkin build
 ```
 
